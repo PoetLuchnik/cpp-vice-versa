@@ -1,3 +1,5 @@
+#include "cctype.h"
+
 static const unsigned short cvv_cctype_table[256] = {
 	0b000000001000,
 	0b000000001000,
