@@ -15,18 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="string.h">
+    <ClInclude Include="src\cctype.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cctype.h">
+    <ClInclude Include="src\string.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="string.c">
+    <ClCompile Include="src\cctype.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="cctype.c">
+    <ClCompile Include="src\string.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
