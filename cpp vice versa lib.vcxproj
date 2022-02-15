@@ -163,9 +163,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="cctype.h" />
     <ClInclude Include="string.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="cctype.c" />
     <ClCompile Include="string.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

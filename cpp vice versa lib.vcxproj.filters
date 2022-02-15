@@ -18,9 +18,15 @@
     <ClInclude Include="string.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="cctype.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="string.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cctype.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
