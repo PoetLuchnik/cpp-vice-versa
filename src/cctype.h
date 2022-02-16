@@ -1,5 +1,7 @@
 #pragma once
 
+#include<ctype.h>
+
 int cvv_isalnum(int c);
 int cvv_isalpha(int c);
 int cvv_isblank(int c);

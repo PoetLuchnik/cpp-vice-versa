@@ -20,7 +20,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\cctype.h" />
+    <ClInclude Include="src\charconv.h" />
     <ClInclude Include="src\string.h" />
+    <ClInclude Include="src\system_error.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\cctype.c" />
