@@ -27,6 +27,12 @@
     <ClInclude Include="src\system_error.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\cstdint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\cerrno.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\cctype.c">

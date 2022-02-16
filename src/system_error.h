@@ -1,6 +1,6 @@
 #pragma once
 
-#include<errno.h>
+#include"cerrno.h"
 
 typedef enum {
     cvv_errc_address_family_not_supported = EAFNOSUPPORT,
